@@ -1,16 +1,15 @@
 {
-  "name": "ngx-auth",
-  "version": "4.0.0",
+  "name": "nptest",
+  "version": "0.0.1",
   "description": "Angular 6+ Authentication module",
   "repository": "https://github.com/serhiisol/ngx-auth",
   "keywords": [
     "angular2",
     "angular4",
     "components",
-    "typescript",
-    "authentication"
+    "typescript"
   ],
-  "author": "Serhii Sol",
+  "author": "lol",
   "license": "MIT",
   "peerDependencies": {
     "@angular/core": "^6.0.0",
